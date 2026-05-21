@@ -301,6 +301,21 @@ export default function Playground() {
     return photos;
   }, [randomKey, isMobile, canvasWidth, canvasHeight]);
 
+  // Preload a small set of images near the initial viewport to improve perceived speed
+  useEffect(() => {
+    const preloadCount = Math.min(8, scatteredPhotos.length);
+    const imgs: HTMLImageElement[] = [];
+    for (let i = 0; i < preloadCount; i++) {
+      const img = new Image();
+      img.src = scatteredPhotos[i].src;
+      imgs.push(img);
+    }
+
+    return () => {
+      imgs.length = 0;
+    };
+  }, [scatteredPhotos]);
+
   // Next & Prev navigation handlers
   const showNext = () => {
     if (selectedPhotoIdx === null) return;
@@ -461,16 +476,16 @@ export default function Playground() {
                 top: `${photo.y}px`,
                 width: `${photo.width}px`,
                 zIndex: photo.zIndex,
+                willChange: 'transform, opacity'
               }}
               initial={{ rotate: photo.rotation, scale: 0.8, opacity: 0 }}
               animate={{ rotate: photo.rotation, scale: 1, opacity: 1 }}
               whileHover={isMobile ? undefined : {
-                scale: 1.08,
-                rotate: 0,
-                zIndex: 500,
-                boxShadow: "0 25px 50px rgba(0,0,0,0.25)"
+                scale: 1.05,
+                zIndex: 600,
+                boxShadow: "0 28px 60px rgba(0,0,0,0.28)"
               }}
-              transition={{ type: "spring", stiffness: 350, damping: 22 }}
+              transition={{ type: "spring", stiffness: 260, damping: 26, mass: 0.9 }}
               className="absolute bg-white p-1.5 pb-4 md:p-3 md:pb-8 rounded-sm shadow-[4px_8px_20px_rgba(0,0,0,0.12)] border border-black/10 cursor-pointer group"
               onClick={() => setSelectedPhotoIdx(idx)}
             >
@@ -484,6 +499,7 @@ export default function Playground() {
                   className="w-full h-auto grayscale-0 md:grayscale md:group-hover:grayscale-0 transition-all duration-750 block"
                   loading="lazy"
                   decoding="async"
+                  fetchPriority="low"
                 />
 
                 {/* Micro category badge */}
@@ -556,6 +572,7 @@ export default function Playground() {
                   alt={scatteredPhotos[selectedPhotoIdx].caption}
                   className="max-w-full max-h-full object-contain transition-all duration-500"
                   decoding="async"
+                  fetchPriority="high"
                 />
                 <span className="absolute bottom-3 right-3 bg-manga-ink text-white px-2 py-0.5 font-mono text-[7px] font-bold uppercase tracking-wider">
                   {scatteredPhotos[selectedPhotoIdx].category}
