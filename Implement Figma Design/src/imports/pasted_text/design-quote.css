@@ -1,0 +1,5295 @@
+/* Frame 4 */
+
+position: relative;
+width: 1428px;
+height: 994px;
+overflow: scroll;
+
+background: radial-gradient(64.8% 64.8% at 34.45% 35.2%, #373737 8.17%, #1A1A1A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 0px;
+
+
+/* Noise */
+
+position: absolute;
+width: 1428px;
+height: 1098px;
+left: calc(50% - 1428px/2);
+top: calc(50% - 1098px/2 + 52px);
+
+background: url(.png);
+mix-blend-mode: multiply;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 1309px;
+height: 872.62px;
+left: 59px;
+top: 112px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 59px;
+top: 112px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 59px;
+top: 112px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 122px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 122px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 74px;
+top: 112px;
+
+background: #F4F3F3;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 83px;
+top: 122px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 132px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 132px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 98px;
+top: 122px;
+
+background: #F4F3F3;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 713px;
+top: 112px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 737px;
+top: 112px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 752px;
+top: 122px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737.4px;
+top: 122px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737px;
+top: 112px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 713px;
+top: 122px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 728px;
+top: 132px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713.4px;
+top: 132px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713px;
+top: 122px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+visibility: hidden;
+width: 18px;
+height: 842px;
+left: calc(50% - 18px/2);
+top: 128px;
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #737373 47.12%, rgba(255, 255, 255, 0) 100%);
+
+
+/* page-2-3 */
+
+position: absolute;
+width: 1191px;
+height: 842px;
+left: calc(50% - 1191px/2 + 0.5px);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21.02px;
+height: 842px;
+right: 118px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1191px;
+height: 842px;
+right: 118px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595.5px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 2 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 1 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 82.02%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* The Core */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 40.67%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Steve Jobs */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 74.23%;
+bottom: 20.55%;
+
+
+
+
+/* “Design is not just what it looks like and feels like. Design is how it works.” */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595.5px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 3 */
+
+width: 595px;
+height: 842px;
+
+background: linear-gradient(156.15deg, #FFFFFF 15.33%, #999999 69.82%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 2 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Simplicity */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 22.92%;
+bottom: 66.27%;
+
+
+
+
+/* — Leonardo da Vinci */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 35.63%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Simplicity is the ultimate sophistication.” */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138.12px;
+height: 842px;
+left: calc(50% - 138.12px/2 + 0.5px);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-4-5 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+left: calc(50% - 21px/2 + 584.5px);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 4 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 3 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Purpose */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Frank Chimero */
+
+position: absolute;
+left: 10.08%;
+right: 45.04%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “People ignore design that ignores people.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 5 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 4 */
+
+position: absolute;
+left: 10.08%;
+right: 81.51%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Story */
+
+position: absolute;
+left: 10.08%;
+right: 48.74%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Lorinda Mamo */
+
+position: absolute;
+left: 10.08%;
+right: 45.55%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Every great design begins with an even better story.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* Frame 5 */
+
+position: relative;
+width: 1428px;
+height: 994px;
+overflow: scroll;
+
+background: radial-gradient(64.8% 64.8% at 34.45% 35.2%, #373737 8.17%, #1A1A1A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 0px;
+
+
+/* Noise */
+
+position: absolute;
+width: 1428px;
+height: 1098px;
+left: calc(50% - 1428px/2);
+top: calc(50% - 1098px/2 + 52px);
+
+background: url(.png);
+mix-blend-mode: multiply;
+
+
+/* Group 9 */
+
+position: absolute;
+width: 1309px;
+height: 872.62px;
+left: 60px;
+top: 113px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 60px;
+top: 113px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 60px;
+top: 113px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 60px;
+top: 123px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 60px;
+top: 123px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 75px;
+top: 113px;
+
+background: #F4F3F3;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 84px;
+top: 123px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 84px;
+top: 133px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 84px;
+top: 133px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 99px;
+top: 123px;
+
+background: #F4F3F3;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 714px;
+top: 113px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 738px;
+top: 113px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 753px;
+top: 123px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 738.4px;
+top: 123px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 738px;
+top: 113px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 714px;
+top: 123px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 729px;
+top: 133px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 714.4px;
+top: 133px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 714px;
+top: 123px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* page 1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+
+
+/* page-1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+visibility: hidden;
+width: 18px;
+height: 842px;
+left: calc(50% - 18px/2);
+top: 128px;
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #737373 47.12%, rgba(255, 255, 255, 0) 100%);
+
+
+/* page-2-3 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 2 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 1 */
+
+position: absolute;
+left: 10.08%;
+right: 82.02%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* The Core */
+
+position: absolute;
+left: 10.08%;
+right: 31.09%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Steve Jobs */
+
+position: absolute;
+left: 10.08%;
+right: 55.29%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Design is not just what it looks like and feels like. Design is how it works.” */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 3 */
+
+width: 595px;
+height: 842px;
+
+background: linear-gradient(156.15deg, #FFFFFF 15.33%, #999999 69.82%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 2 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Simplicity */
+
+position: absolute;
+left: 10.08%;
+right: 13.28%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Leonardo da Vinci */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Simplicity is the ultimate sophistication.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+right: 645px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-4-5 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 4 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 3 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Purpose */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 22.92%;
+bottom: 66.27%;
+
+
+
+
+/* — Frank Chimero */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 45.04%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “People ignore design that ignores people.” */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 5 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 4 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 81.51%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Story */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 22.92%;
+bottom: 66.27%;
+
+
+
+
+/* — Lorinda Mamo */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 45.55%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Every great design begins with an even better story.” */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+left: calc(50% - 138px/2);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-6-7 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+left: calc(50% - 21px/2 + 584.5px);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 6 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 5 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Detail */
+
+position: absolute;
+left: 10.08%;
+right: 46.55%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Charles Eames */
+
+position: absolute;
+left: 10.08%;
+right: 44.71%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “The details are not the details. They make the design.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 7 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 6 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Legacy */
+
+position: absolute;
+left: 10.08%;
+right: 41.85%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Massimo Vignelli */
+
+position: absolute;
+left: 10.08%;
+right: 38.82%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Styles come and go. Good design is a language, not a style.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* Frame 7 */
+
+position: relative;
+width: 1428px;
+height: 994px;
+overflow: scroll;
+
+background: radial-gradient(64.8% 64.8% at 34.45% 35.2%, #373737 8.17%, #1A1A1A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 0px;
+
+
+/* Noise */
+
+position: absolute;
+width: 1428px;
+height: 1098px;
+left: calc(50% - 1428px/2);
+top: calc(50% - 1098px/2 + 52px);
+
+background: url(.png);
+mix-blend-mode: multiply;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 1309px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 74px;
+top: 113px;
+
+background: #F4F3F3;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 83px;
+top: 123px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 98px;
+top: 123px;
+
+background: #F4F3F3;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 713px;
+top: 113px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 737px;
+top: 113px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 752px;
+top: 123px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737.4px;
+top: 123px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737px;
+top: 113px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 713px;
+top: 123px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 728px;
+top: 133px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713.4px;
+top: 133px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713px;
+top: 123px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* page 1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+
+
+/* page-1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+visibility: hidden;
+width: 18px;
+height: 842px;
+left: calc(50% - 18px/2);
+top: 128px;
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #737373 47.12%, rgba(255, 255, 255, 0) 100%);
+
+
+/* page-2-3 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 2 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 1 */
+
+position: absolute;
+left: 10.08%;
+right: 82.02%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* The Core */
+
+position: absolute;
+left: 10.08%;
+right: 31.09%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Steve Jobs */
+
+position: absolute;
+left: 10.08%;
+right: 55.29%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Design is not just what it looks like and feels like. Design is how it works.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 3 */
+
+width: 595px;
+height: 842px;
+
+background: linear-gradient(156.15deg, #FFFFFF 15.33%, #999999 69.82%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 2 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Simplicity */
+
+position: absolute;
+left: 10.08%;
+right: 13.28%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Leonardo da Vinci */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Simplicity is the ultimate sophistication.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+right: 645px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-4-5 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 4 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 3 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Purpose */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Frank Chimero */
+
+position: absolute;
+left: 10.08%;
+right: 45.04%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “People ignore design that ignores people.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 5 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 4 */
+
+position: absolute;
+left: 10.08%;
+right: 81.51%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Story */
+
+position: absolute;
+left: 10.08%;
+right: 48.74%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Lorinda Mamo */
+
+position: absolute;
+left: 10.08%;
+right: 45.55%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Every great design begins with an even better story.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+left: calc(50% - 138px/2);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-6-7 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 6 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 5 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Detail */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 22.92%;
+bottom: 66.27%;
+
+
+
+
+/* — Charles Eames */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 74.23%;
+bottom: 20.55%;
+
+
+
+
+/* “The details are not the details. They make the design.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 36.46%;
+
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 7 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 6 */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Legacy */
+
+position: absolute;
+visibility: hidden;
+left: 10.08%;
+right: 41.85%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Massimo Vignelli */
+
+position: absolute;
+left: 10.08%;
+right: 89.92%;
+top: 74.23%;
+bottom: 20.55%;
+
+
+
+
+/* “Styles come and go. Good design is a language, not a style.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 36.46%;
+
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+left: calc(50% - 138px/2);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-8 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+left: calc(50% - 21px/2 + 584.5px);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 8 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 11 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* page */
+
+position: absolute;
+left: 29.58%;
+right: -2.52%;
+top: 82.54%;
+bottom: -5.82%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+border: 2px solid #000000;
+
+
+/* Last */
+
+position: absolute;
+left: -3.19%;
+right: 45.04%;
+top: 65.08%;
+bottom: 11.64%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+color: #0033FF;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 7 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 6 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Legacy */
+
+position: absolute;
+left: 10.08%;
+right: 41.85%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Massimo Vignelli */
+
+position: absolute;
+left: 10.08%;
+right: 38.82%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Styles come and go. Good design is a language, not a style.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* Frame 8 */
+
+position: relative;
+width: 1428px;
+height: 994px;
+overflow: scroll;
+
+background: radial-gradient(64.8% 64.8% at 34.45% 35.2%, #373737 8.17%, #1A1A1A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 0px;
+
+
+/* Noise */
+
+position: absolute;
+width: 1428px;
+height: 1098px;
+left: calc(50% - 1428px/2);
+top: calc(50% - 1098px/2 + 52px);
+
+background: url(.png);
+mix-blend-mode: multiply;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 1309px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 74px;
+top: 113px;
+
+background: #F4F3F3;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 83px;
+top: 123px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 98px;
+top: 123px;
+
+background: #F4F3F3;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 713px;
+top: 113px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 737px;
+top: 113px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 752px;
+top: 123px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737.4px;
+top: 123px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737px;
+top: 113px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 713px;
+top: 123px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 728px;
+top: 133px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713.4px;
+top: 133px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713px;
+top: 123px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* page 1 */
+
+position: absolute;
+width: 1px;
+height: 1.42px;
+left: 714px;
+top: 128px;
+
+
+
+/* page-1 */
+
+position: absolute;
+width: 1px;
+height: 1.42px;
+left: 714px;
+top: 128px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+visibility: hidden;
+width: 18px;
+height: 842px;
+left: calc(50% - 18px/2);
+top: 128px;
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #737373 47.12%, rgba(255, 255, 255, 0) 100%);
+
+
+/* page-2-3 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 1 */
+
+position: absolute;
+left: 10.08%;
+right: 82.02%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* The Core */
+
+position: absolute;
+left: 10.08%;
+right: 31.09%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Steve Jobs */
+
+position: absolute;
+left: 10.08%;
+right: 55.29%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Design is not just what it looks like and feels like. Design is how it works.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 3 */
+
+width: 595px;
+height: 842px;
+
+background: linear-gradient(156.15deg, #FFFFFF 15.33%, #999999 69.82%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 2 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Simplicity */
+
+position: absolute;
+left: 10.08%;
+right: 13.28%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Leonardo da Vinci */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Simplicity is the ultimate sophistication.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 713px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-4-5 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 4 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 3 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Purpose */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Frank Chimero */
+
+position: absolute;
+left: 10.08%;
+right: 45.04%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “People ignore design that ignores people.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 5 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 4 */
+
+position: absolute;
+left: 10.08%;
+right: 81.51%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Story */
+
+position: absolute;
+left: 10.08%;
+right: 48.74%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Lorinda Mamo */
+
+position: absolute;
+left: 10.08%;
+right: 45.55%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Every great design begins with an even better story.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+left: calc(50% - 1px/2 + 0.5px);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-6-7 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 6 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 9 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 5 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Detail */
+
+position: absolute;
+left: 10.08%;
+right: 46.55%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Charles Eames */
+
+position: absolute;
+left: 10.08%;
+right: 44.71%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “The details are not the details. They make the design.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 6 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Legacy */
+
+position: absolute;
+left: 10.08%;
+right: 41.85%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Massimo Vignelli */
+
+position: absolute;
+left: 10.08%;
+right: 38.82%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Styles come and go. Good design is a language, not a style.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+left: calc(50% - 1px/2 + 0.5px);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page-8 */
+
+position: absolute;
+width: 1190px;
+height: 842px;
+left: calc(50% - 1190px/2);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1190px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+filter: drop-shadow(0px 0px 28px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 8 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 11 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* page */
+
+position: absolute;
+visibility: hidden;
+left: 29.58%;
+right: -2.52%;
+top: 82.54%;
+bottom: -5.82%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+border: 2px solid #000000;
+
+
+/* Last */
+
+position: absolute;
+visibility: hidden;
+left: -3.19%;
+right: 45.04%;
+top: 65.08%;
+bottom: 11.64%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+color: #0033FF;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 595px;
+height: 842px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 10 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 6 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Legacy */
+
+position: absolute;
+left: 10.08%;
+right: 41.85%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Massimo Vignelli */
+
+position: absolute;
+left: 10.08%;
+right: 38.82%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Styles come and go. Good design is a language, not a style.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+left: calc(50% - 138px/2);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* Frame 6 */
+
+position: relative;
+width: 1428px;
+height: 994px;
+overflow: scroll;
+
+background: radial-gradient(64.8% 64.8% at 34.45% 35.2%, #373737 8.17%, #1A1A1A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* Noise */
+
+position: absolute;
+width: 1428px;
+height: 994px;
+left: calc(50% - 1428px/2);
+top: calc(50% - 994px/2);
+
+background: url(.png);
+mix-blend-mode: multiply;
+
+
+/* Group 7 */
+
+position: absolute;
+width: 1309px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 59px;
+top: 113px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 59px;
+top: 123px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 74px;
+top: 113px;
+
+background: #F4F3F3;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 83px;
+top: 123px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #DCDCDC;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 83px;
+top: 133px;
+
+background: #EDECEC;
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 98px;
+top: 123px;
+
+background: #F4F3F3;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 655px;
+height: 872.62px;
+left: 713px;
+top: 113px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 737px;
+top: 113px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 752px;
+top: 123px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737.4px;
+top: 123px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 737px;
+top: 113px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 631px;
+height: 862.62px;
+left: 713px;
+top: 123px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 728px;
+top: 133px;
+
+background: #DCDCDC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713.4px;
+top: 133px;
+
+background: #EDECEC;
+transform: matrix(-1, -0.02, -0.02, 1, 0, 0);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 616px;
+height: 842px;
+left: 713px;
+top: 123px;
+
+background: #F4F3F3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 138px;
+height: 842px;
+left: calc(50% - 138px/2);
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* page 1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 595px;
+height: 842px;
+left: 714px;
+top: 128px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* page */
+
+position: absolute;
+visibility: hidden;
+width: 434px;
+height: 196px;
+left: 176px;
+top: 695px;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+border: 2px solid #000000;
+
+
+/* cover */
+
+position: absolute;
+visibility: hidden;
+width: 559px;
+height: 196px;
+left: 51px;
+top: 548px;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 196px;
+line-height: 196px;
+/* identical to box height */
+letter-spacing: -0.1em;
+
+color: #0033FF;
+
+
+
+/* page-2-3 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+left: calc(50% - 21px/2 + 584.5px);
+top: 128px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 21px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #D9D9D9;
+
+
+/* page-2-3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: #000000;
+box-shadow: 0px 0px 28px rgba(0, 0, 0, 0.25);
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 2 */
+
+width: 595px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 1 */
+
+position: absolute;
+left: 10.08%;
+right: 82.02%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* The Core */
+
+position: absolute;
+left: 10.08%;
+right: 31.09%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Steve Jobs */
+
+position: absolute;
+left: 10.08%;
+right: 55.29%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Design is not just what it looks like and feels like. Design is how it works.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 28.15%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 1px;
+height: 842px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* image 3 */
+
+width: 595px;
+height: 842px;
+
+background: linear-gradient(156.15deg, #FFFFFF 15.33%, #999999 69.82%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Page 2 */
+
+position: absolute;
+left: 10.08%;
+right: 81.68%;
+top: 9.26%;
+bottom: 88.84%;
+
+font-family: 'Baron Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Simplicity */
+
+position: absolute;
+left: 10.08%;
+right: 13.28%;
+top: 22.92%;
+bottom: 66.27%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 800;
+font-size: 76px;
+line-height: 91px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* — Leonardo da Vinci */
+
+position: absolute;
+left: 10.08%;
+right: 35.63%;
+top: 74.23%;
+bottom: 20.55%;
+
+font-family: 'Teachers';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 44px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+
+
+/* “Simplicity is the ultimate sophistication.” */
+
+position: absolute;
+left: 10.08%;
+right: 21.68%;
+top: 59.38%;
+bottom: 32.3%;
+
+font-family: 'Teachers';
+font-style: italic;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1px;
+height: 842px;
+right: 119px;
+top: calc(50% - 842px/2 + 52px);
+
+background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #000000 48.55%, #000000 48.56%, rgba(255, 255, 255, 0) 48.56%, #000000 48.96%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+
+
+/* Drag to open Book */
+
+position: absolute;
+width: 333px;
+height: 48px;
+left: 879px;
+top: 47px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 14.4px;
+height: 34px;
+left: 1224.5px;
+top: 67.67px;
+
+border: 3px solid #D3D3D3;
+transform: matrix(0.87, -0.5, -0.5, -0.87, 0, 0);
