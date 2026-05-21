@@ -483,6 +483,7 @@ export default function Playground() {
                   alt={photo.caption}
                   className="w-full h-auto grayscale-0 md:grayscale md:group-hover:grayscale-0 transition-all duration-750 block"
                   loading="lazy"
+                  decoding="async"
                 />
 
                 {/* Micro category badge */}
@@ -554,6 +555,7 @@ export default function Playground() {
                   src={scatteredPhotos[selectedPhotoIdx].src}
                   alt={scatteredPhotos[selectedPhotoIdx].caption}
                   className="max-w-full max-h-full object-contain transition-all duration-500"
+                  decoding="async"
                 />
                 <span className="absolute bottom-3 right-3 bg-manga-ink text-white px-2 py-0.5 font-mono text-[7px] font-bold uppercase tracking-wider">
                   {scatteredPhotos[selectedPhotoIdx].category}
