@@ -6,7 +6,11 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    plugins: [react(), tailwindcss()],
+  // Serve the existing top-level `images/` folder as Vite's public directory
+  // so files like `/profile-photo.jpeg` and `/inmoov_robot_hand_3d_print4.jpg`
+  // are available at the site root without moving binary files.
+  publicDir: 'images',
+  plugins: [react(), tailwindcss()],
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
     },

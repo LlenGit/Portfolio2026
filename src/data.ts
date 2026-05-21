@@ -7,7 +7,7 @@ export const PORTFOLIO_DATA = {
     phone: "+91-9362983641",
     location: "Sagolband Thangjam Leirak, Imphal West, Manipur 795001",
     about: "A dedicated B.Tech student specializing in Electrical Engineering with a strong passion for IoT and Computer Vision technologies. I enjoy exploring innovative solutions that integrate hardware and software to create smart, efficient systems.",
-    profileImage: "images/profile-photo.jpeg", // User uploaded profile picture
+    profileImage: "profile-photo.jpeg", // User uploaded profile picture
     social: {
       github: "https://github.com/LlenGit",
       linkedin: "https://www.linkedin.com/in/llhanba-laishram-59b5312ab/",
@@ -44,7 +44,7 @@ export const PORTFOLIO_DATA = {
     {
       title: "Vision-Based Wireless Robotic Hand",
       description: "Integrates IoT and Computer Vision to create a dynamic control system for a robotic hand — controlled wirelessly through real-time hand gesture recognition using MediaPipe and OpenCV.",
-      image: "images/inmoov_robot_hand_3d_print4.jpg?q=80&w=1470&auto=format&fit=crop",
+      image: "inmoov_robot_hand_3d_print4.jpg?q=80&w=1470&auto=format&fit=crop",
       stack: ["Python", "OpenCV", "MediaPipe", "Arduino", "ESP32"],
       demo: "#",
       github: "https://github.com/LlenGit/vision-based-robotic-hand"
@@ -52,7 +52,7 @@ export const PORTFOLIO_DATA = {
     {
       title: "Automatic License Plate Recognition (ALPR) System",
       description: "Integrates Raspberry Pi with Google Cloud Vision API and computer vision to detect license plates in real time and perform OCR for automated recording.",
-      image: "images/1725625319936.jpg?q=80&w=1470&auto=format&fit=crop",
+      image: "1725625319936.jpg?q=80&w=1470&auto=format&fit=crop",
       stack: ["Python", "Raspberry Pi", "OpenCV", "Google Cloud API"],
       demo: "https://youtu.be/wkm_uxWz4Zo",
       github: "https://github.com/LlenGit/ALPR-using-Goggle-Cloud-Vision-API-on-Raspberry-Pi-4-with-a-web-dashboard"
@@ -68,7 +68,7 @@ export const PORTFOLIO_DATA = {
     {
       title: "Brain Tumor Detection & Segmentation",
       description: "A 2-stage deep learning pipeline using ResNet50 and ResUNet architectures integrated to detect and segment tumors at pixel level in MRI scans.",
-      image: "images/mri.png?q=80&w=1470&auto=format&fit=crop",
+      image: "mri.png?q=80&w=1470&auto=format&fit=crop",
       stack: ["Python", "TensorFlow", "Keras", "ResNet50", "ResUNet", "NumPy"],
       demo: "#",
       github: "https://github.com/LlenGit/Medical_Image_processing"

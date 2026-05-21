@@ -19,6 +19,10 @@
   --color-manga-ink: #1A1A1A;
 }
 
+#root {
+  position: relative;
+}
+
 @layer base {
   body {
     @apply transition-colors duration-700 antialiased selection:bg-primary/30 selection:text-white overflow-x-hidden;
