@@ -90,7 +90,7 @@ export default function AudioPlayer() {
     <audio
       ref={audioRef}
       loop
-      preload="auto"
+      preload="none"
       style={{ display: 'none' }}
     />
   );
