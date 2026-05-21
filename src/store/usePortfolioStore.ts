@@ -1,9 +1,6 @@
 import { create } from 'zustand';
 import { PORTFOLIO_DATA } from '../data';
 
-// @ts-ignore
-import purpleRainSong from '../../Purple Rain_spotdown.org.mp3';
-
 interface PortfolioState {
   mode: 'dark' | 'manga';
   setMode: (mode: 'dark' | 'manga') => void;
@@ -33,8 +30,9 @@ export const usePortfolioStore = create<PortfolioState>((set) => ({
   }),
   isMuted: true,
   toggleMute: () => set((state) => ({ isMuted: !state.isMuted })),
-  // A beautiful ambient instrumental song, updated to the user's custom file.
-  musicUrl: purpleRainSong,
+  // Use a runtime URL to avoid bundling the large audio asset into the JS bundle.
+  // The file is served from the Vite public dir (site root). Use a URL-safe name.
+  musicUrl: '/purple-rain-spotdown.mp3',
   setMusicUrl: (musicUrl) => set({ musicUrl }),
   
   data: PORTFOLIO_DATA,
